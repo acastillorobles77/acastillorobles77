@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-- 🌱 I’m currently learning about Android custom ROMs development
+
+- 🌱 I’m currently learning about Android custom ROMs development -->
 
 ![Angel Castillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=acastillorobles77&count_private=true&theme=tokyonight)
